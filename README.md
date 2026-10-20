@@ -265,4 +265,4 @@ The repository is intended to serve as the public research-code companion to the
 ## Contributors
 
 - [Atharva Gaur](https://github.com/Atharvagaur)
-- [Contributor Name](https://github.com/kndoshi)
+- [Krish N Doshi](https://github.com/kndoshi)

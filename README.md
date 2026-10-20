@@ -261,3 +261,8 @@ GitHub: [@Atharvagaur](https://github.com/Atharvagaur)
 The benchmark datasets are obtained separately from their original sources and are not distributed through this repository.
 
 The repository is intended to serve as the public research-code companion to the study. Before the journal submission is finalized, the code, preprocessing and overlap-exclusion routines, feature-mapping configuration, model parameters, random seeds, evaluation scripts, environment specification, and result-generation artifacts should be checked for completeness and consistency with the manuscript.
+
+## Contributors
+
+- [Atharva Gaur](https://github.com/Atharvagaur)
+- [Contributor Name](https://github.com/kndoshi)

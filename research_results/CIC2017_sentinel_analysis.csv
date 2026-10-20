@@ -1,0 +1,21 @@
+Feature,Minus_1_Count,Percentage
+Init Fwd Win Bytes,32925,14.587237662320401
+Flow Duration,2,0.0008860888481288018
+Flow IAT Max,2,0.0008860888481288018
+Flow IAT Mean,2,0.0008860888481288018
+Flow Bytes/s,0,0.0
+Fwd Packets Length Total,0,0.0
+Subflow Fwd Bytes,0,0.0
+Avg Packet Size,0,0.0
+Packet Length Max,0,0.0
+Avg Fwd Segment Size,0,0.0
+Packet Length Mean,0,0.0
+Fwd Packet Length Mean,0,0.0
+Fwd Packet Length Max,0,0.0
+Fwd Packet Length Min,0,0.0
+Packet Length Min,0,0.0
+Flow Packets/s,0,0.0
+Fwd Packets/s,0,0.0
+Flow IAT Std,0,0.0
+Fwd IAT Max,0,0.0
+Fwd IAT Total,0,0.0

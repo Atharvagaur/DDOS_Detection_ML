@@ -55,7 +55,7 @@ No retraining or target-domain threshold recalibration is used in the primary ex
 
 The analysis includes:
 
-- Internal-versus-external performance comparison.
+- Internal versus external performance comparison.
 - Kolmogorov–Smirnov tests for feature-distribution differences.
 - Sentinel-value auditing for potentially problematic feature representations.
 - Leave-one-feature-out sensitivity analysis.

@@ -11,8 +11,8 @@ This research investigates that gap through a three-part experimental study. It 
 The experiments use three publicly available benchmark datasets:
 
 - CIC-DDoS2019
-- CIC-IDS2017
 - CSE-CIC-IDS2018
+- CIC-IDS2017
 
 The central focus is not simply maximizing classification accuracy. It is understanding how detection performance changes under unseen attack types and dataset shift, how train/test overlap affects reported results, and which feature-level behaviors are associated with cross-dataset performance degradation.
 
